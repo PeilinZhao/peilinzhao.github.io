@@ -40,6 +40,24 @@ Zhiqiang Xu, Peilin Zhao, Jianneng Cao, Xiaoli Li
 Stochastic Optimization with Importance Sampling for Regularized Loss Minimization. ICML 2015  
 Peilin Zhao, Tong Zhang
 
+Online Transfer Learning. Artificial  Intelligence 2014  
+Peilin Zhao, Steven C. H. Hoi, Jialei Wang, Bin Li
+
+Cost-sensitive online active learning with application to malicious URL detection. KDD 2013  
+Peilin Zhao, Steven C. H. Hoi
+
+Fast Bounded Online Gradient Descent Algorithms for Scalable Kernel-Based Online Learning. ICML 2012  
+Peilin Zhao, Steven C. H. Hoi, Jialei Wang, Rong Jin, Pengcheng Wu
+
+Online AUC Maximization. ICML 2011  
+Peilin Zhao, Steven C. H. Hoi, Rong Jin, Tianbao Yang
+
+OTL: A Framework of Online Transfer Learning. ICML 2010  
+Peilin Zhao, Steven C. H. Hoi
+
+DUOL: A Double Updating Approach for Online Learning. NIPS 2009  
+Peilin Zhao, Steven C. H. Hoi, Rong Jin
+
 ## Services
 **Associate Editor:**  
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
