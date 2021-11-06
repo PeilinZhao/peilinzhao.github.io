@@ -17,7 +17,39 @@ Welcome to GitHub Pages
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Selected Publications (Full List)
+Meta-learning Hyperparameter Performance Prediction with Neural Processes. ICML 2021  
+Ying Wei, Peilin Zhao, Junzhou Huang
+
+
+Adversarial Sparse Transformer for Time Series Forecasting. NeurIPS 2020  
+Sifan Wu, Xi Xiao, Qianggang Ding, Peilin Zhao, Ying Wei, Junzhou Huang
+
+
+Hyperparameter Learning via Distributional Transfer. NeurIPS 2019  
+Ho Chung Leon Law, Peilin Zhao, Leung Sing Chan, Junzhou Huang, Dino Sejdinovic
+
+
+Towards More Efficient Stochastic Decentralized Learning: Faster Convergence and Sparse Communication. ICML 2018  
+Zebang Shen, Aryan Mokhtari, Tengfei Zhou, Peilin Zhao, Hui Qian
+
+
+Projection-free Distributed Online Learning in Networks. ICML 2017  
+Wenpeng Zhang, Peilin Zhao, Wenwu Zhu, Steven C. H. Hoi, Tong Zhang
+
+
+Matrix Eigen-decomposition via Doubly Stochastic Riemannian Optimization. ICML 2016
+Zhiqiang Xu, Peilin Zhao, Jianneng Cao, Xiaoli Li
+
+
+Stochastic Optimization with Importance Sampling for Regularized Loss Minimization. ICML 2015  
+Peilin Zhao, Tong Zhang
+
+
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
