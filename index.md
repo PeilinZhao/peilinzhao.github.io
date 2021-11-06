@@ -45,5 +45,6 @@ Peilin Zhao, Tong Zhang
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * Neurocomputing
 
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Area Chair:**
+* Thirty-fifth Annual Conference on Neural Information Processing Systems (NeurIPS 2021)
+* Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2021)
