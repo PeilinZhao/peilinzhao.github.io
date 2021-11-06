@@ -72,4 +72,4 @@ Peilin Zhao, Steven C. H. Hoi, Rong Jin
 * Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2021)
 
 ## Links
-[My Google Scholar](https://scholar.google.com/citations?user=HPeX_YcAAAAJ&hl=en) | 
+[My Google Scholar](https://scholar.google.com/citations?user=HPeX_YcAAAAJ&hl=en) | [WikiCFP](http://www.wikicfp.com/cfp/)
