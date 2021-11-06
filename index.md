@@ -6,7 +6,7 @@ Tencent AI Lab
 Shenzhen, China  
 Email: peilinzhao[AT]hotmail.com 
 
-Internship: We are looking for interns, who are intrested on AI for Drug， Energy, and Agriculture, such as Deep Graph Learning, Time Series Prediction, Reinforcement Learning, etc. 
+<font color=red>Internship: We are looking for interns, who are intrested on AI for Drug, Energy, and Agriculture, such as Deep Graph Learning, Time Series Prediction, Reinforcement Learning, etc.</font>
 
 
 ## BIO
