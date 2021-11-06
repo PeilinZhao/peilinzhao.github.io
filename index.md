@@ -1,4 +1,3 @@
-# Peilin Zhao's Homepage
 Previous Homepage: [peilinzhao.weebly.com](http://peilinzhao.weebly.com)
 
 ## Peilin Zhao  
