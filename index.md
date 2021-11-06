@@ -41,10 +41,10 @@ Stochastic Optimization with Importance Sampling for Regularized Loss Minimizati
 Peilin Zhao, Tong Zhang
 
 ## Services
-**Associate Editor:**
+**Associate Editor:**  
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * Neurocomputing
 
-**Area Chair:**
+**Area Chair:**  
 * Thirty-fifth Annual Conference on Neural Information Processing Systems (NeurIPS 2021)
 * Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2021)
