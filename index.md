@@ -1,5 +1,6 @@
-# Bio
-Peilin Zhao
+# Peilin Zhao
+Principal Researcher 
+
 ## Bio
 Peilin Zhao
 ### BIO
