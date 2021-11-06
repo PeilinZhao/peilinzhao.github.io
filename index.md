@@ -7,6 +7,7 @@ Shenzhen, China
 Email: peilinzhao[AT]hotmail.com 
 
 ## BIO
+Peilin Zhao is currently a Principal Researcher at Tencent AI Lab, China. Previously, he worked at Rutgers University, Institute for Infocomm Research (I2R), Ant Group. His research interests include: Online Learning, Recommendation System, Automatic Machine Learning, Deep Graph Learning, and Reinforcement Learning etc. He has published over 100 papers in top venues, including JMLR, ICML, KDD, etc. He has been invited as a PC member, area chair or editor for many international conferences and journals, such as ICML, TPAMI, etc. He received his bachelor’s degree from Zhejiang University, and his PhD degree from Nanyang Technological University.
 
 ## Research Interests
 
