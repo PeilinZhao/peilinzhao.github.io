@@ -1,8 +1,8 @@
 
 
 ## Peilin Zhao
-Principal Researcher\n
-Tencent AI Lab\n
+Principal Researcher  
+Tencent AI Lab  
 Shenzhen, China
 
 ### BIO
