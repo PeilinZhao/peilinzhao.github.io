@@ -33,7 +33,7 @@ Projection-free Distributed Online Learning in Networks. ICML 2017
 Wenpeng Zhang, Peilin Zhao, Wenwu Zhu, Steven C. H. Hoi, Tong Zhang
 
 
-Matrix Eigen-decomposition via Doubly Stochastic Riemannian Optimization. ICML 2016
+Matrix Eigen-decomposition via Doubly Stochastic Riemannian Optimization. ICML 2016  
 Zhiqiang Xu, Peilin Zhao, Jianneng Cao, Xiaoli Li
 
 
