@@ -1,5 +1,5 @@
 # Peilin Zhao's Homepage
-Previous Homepage: [peilin.weebly.com](http://peilinzhao.weebly.com)
+Previous Homepage: [peilinzhao.weebly.com](http://peilinzhao.weebly.com)
 
 ## Peilin Zhao  
 Principal Researcher  
