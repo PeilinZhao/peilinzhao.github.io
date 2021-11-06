@@ -70,3 +70,6 @@ Peilin Zhao, Steven C. H. Hoi, Rong Jin
 **Area Chair:**  
 * Thirty-fifth Annual Conference on Neural Information Processing Systems (NeurIPS 2021)
 * Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2021)
+
+## Links
+[Google Scholar](https://scholar.google.com/citations?user=HPeX_YcAAAAJ&hl=en) | 
