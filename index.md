@@ -1,3 +1,10 @@
+# Bio
+Peilin Zhao
+## Bio
+Peilin Zhao
+### BIO
+Peilin Zhao
+
 
 You can use the [editor on GitHub](https://github.com/PeilinZhao/peilinzhao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 Welcome to GitHub Pages
