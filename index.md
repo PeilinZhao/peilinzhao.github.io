@@ -12,11 +12,6 @@ Peilin Zhao is currently a Principal Researcher at Tencent AI Lab, China. Previo
 ## Research Interests
 Online Learning, Recommendation System, Automatic Machine Learning, Deep Graph Learning, and Reinforcement Learning 
 
-You can use the [editor on GitHub](https://github.com/PeilinZhao/peilinzhao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-Welcome to GitHub Pages
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## Selected Publications ([Full List](https://dblp.org/pid/84/8411.html))
 Meta-learning Hyperparameter Performance Prediction with Neural Processes. ICML 2021  
 Ying Wei, Peilin Zhao, Junzhou Huang
