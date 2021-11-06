@@ -5,8 +5,10 @@ Principal Researcher
 Tencent AI Lab  
 Shenzhen, China  
 Email: peilinzhao[AT]hotmail.com 
-### BIO
-Peilin Zhao
+
+## BIO
+
+## Research Interests
 
 
 You can use the [editor on GitHub](https://github.com/PeilinZhao/peilinzhao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
