@@ -3,8 +3,8 @@
 ## Peilin Zhao  
 Principal Researcher  
 Tencent AI Lab  
-Shenzhen, China
-***
+Shenzhen, China  
+Email: peilinzhao[AT]hotmail.com 
 ### BIO
 Peilin Zhao
 
