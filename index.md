@@ -17,7 +17,7 @@ Welcome to GitHub Pages
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Selected Publications (Full List)
+## Selected Publications ([Full List](https://dblp.org/pid/84/8411.html))
 Meta-learning Hyperparameter Performance Prediction with Neural Processes. ICML 2021  
 Ying Wei, Peilin Zhao, Junzhou Huang
 
