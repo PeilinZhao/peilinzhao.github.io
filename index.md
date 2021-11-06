@@ -1,8 +1,8 @@
-# Peilin Zhao
+# Peilin Zhao's Homepage
+
+## Peilin Zhao
 Principal Researcher 
 
-## Bio
-Peilin Zhao
 ### BIO
 Peilin Zhao
 
