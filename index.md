@@ -4,7 +4,7 @@
 Principal Researcher  
 Tencent AI Lab  
 Shenzhen, China
-
+***
 ### BIO
 Peilin Zhao
 
