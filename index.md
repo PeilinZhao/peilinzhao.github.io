@@ -1,9 +1,5 @@
 Previous Homepage: [peilinzhao.weebly.com](http://peilinzhao.weebly.com)
 
-<div align = right>
-<img src= "https://pic3.zhimg.com/80/v2-fb1e3adc22a19a7d9f00a66b8b955172_720w.jpg" width ="20%">
-</div>
-
 ## Peilin Zhao  
 
 Principal Researcher  
@@ -77,4 +73,4 @@ Peilin Zhao, Steven C. H. Hoi, Rong Jin
 ## Links
 [My Google Scholar](https://scholar.google.com/citations?user=HPeX_YcAAAAJ&hl=en) | [WikiCFP](http://www.wikicfp.com/cfp/) | [t-test](https://www.graphpad.com/quickcalcs/ttest1/?Format=SD)
 
-
+<img src= "https://pic3.zhimg.com/80/v2-fb1e3adc22a19a7d9f00a66b8b955172_720w.jpg" width ="20%">
