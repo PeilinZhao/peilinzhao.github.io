@@ -1,13 +1,17 @@
 Previous Homepage: [peilinzhao.weebly.com](http://peilinzhao.weebly.com)
 
+<div align = right>
+<img src= "https://pic3.zhimg.com/80/v2-fb1e3adc22a19a7d9f00a66b8b955172_720w.jpg" width ="20%">
+</div>
+
 ## Peilin Zhao  
+
 Principal Researcher  
 Tencent AI Lab  
 Shenzhen, China  
 Email: peilinzhao[AT]hotmail.com 
 
  **Internship:**  <font color=red>We are looking for interns, who are intrested in AI for Drug, Energy, and Agriculture, such as Deep Graph Learning, Time Series Prediction, Reinforcement Learning, etc.</font>
-
 
 ## BIO
 Peilin Zhao is currently a Principal Researcher at Tencent AI Lab, China. Previously, he worked at Rutgers University, Institute for Infocomm Research (I2R), Ant Group. His research interests include: Online Learning, Recommendation System, Automatic Machine Learning, Deep Graph Learning, and Reinforcement Learning etc. He has published over 100 papers in top venues, including JMLR, ICML, KDD, etc. He has been invited as a PC member, Area Chair or Assocaite Editor for many international conferences and journals, such as ICML, TPAMI, etc. He received his bachelor’s degree from Zhejiang University, and his PhD degree from Nanyang Technological University.
@@ -72,3 +76,5 @@ Peilin Zhao, Steven C. H. Hoi, Rong Jin
 
 ## Links
 [My Google Scholar](https://scholar.google.com/citations?user=HPeX_YcAAAAJ&hl=en) | [WikiCFP](http://www.wikicfp.com/cfp/) | [t-test](https://www.graphpad.com/quickcalcs/ttest1/?Format=SD)
+
+
