@@ -73,7 +73,8 @@ Peilin Zhao, Steven C. H. Hoi, Rong Jin
 
 **Senior PC:**
 * The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)  
-* Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2021)
+* Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2021)  
+* The 29th International Joint Conference on Artificial Intelligence (IJCAI 2020)
 
 ## Links
 [My Google Scholar](https://scholar.google.com/citations?user=HPeX_YcAAAAJ&hl=en) | [WikiCFP](http://www.wikicfp.com/cfp/) | [t-test](https://www.graphpad.com/quickcalcs/ttest1/?Format=SD)
