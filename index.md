@@ -69,6 +69,7 @@ Peilin Zhao, Steven C. H. Hoi, Rong Jin
 **Area Chair:**  
 * Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)
 * Thirty-fifth Annual Conference on Neural Information Processing Systems (NeurIPS 2021)
+* The 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)
 
 **PC Member**
 * Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2021)
