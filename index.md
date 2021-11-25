@@ -71,7 +71,8 @@ Peilin Zhao, Steven C. H. Hoi, Rong Jin
 * Thirty-fifth Annual Conference on Neural Information Processing Systems (NeurIPS 2021)
 * The 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)
 
-**PC Member**
+**Senior PC:**
+* The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)  
 * Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2021)
 
 ## Links
