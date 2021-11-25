@@ -70,6 +70,9 @@ Peilin Zhao, Steven C. H. Hoi, Rong Jin
 * Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)
 * Thirty-fifth Annual Conference on Neural Information Processing Systems (NeurIPS 2021)
 
+**PC Member**
+* Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2021)
+
 ## Links
 [My Google Scholar](https://scholar.google.com/citations?user=HPeX_YcAAAAJ&hl=en) | [WikiCFP](http://www.wikicfp.com/cfp/) | [t-test](https://www.graphpad.com/quickcalcs/ttest1/?Format=SD)
 
