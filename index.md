@@ -19,7 +19,6 @@ Email: peilinzhao[AT]hotmail.com
 * Nanyang Technological University, Singapore
     - PHD in Computer Science, 2008 - 2013
 
-
 * Zhejiang University, China
     - BSc in Math, 2004 - 2008
 
