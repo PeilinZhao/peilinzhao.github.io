@@ -12,11 +12,11 @@ Email: peilinzhao[AT]hotmail.com
 ## Working Experiences
 
 ## Education Experiences
-Nanyang Technological University, Singapore
-* PHD in Computer Science  
+* Nanyang Technological University, Singapore
+** PHD in Computer Science  
 
-Zhejiang University, China  
-* BSc in Math  
+* Zhejiang University, China  
+** BSc in Math  
 
 
 ## BIO
