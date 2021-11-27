@@ -10,9 +10,9 @@ Email: peilinzhao[AT]hotmail.com
  **Internship:**  <font color=red>We are looking for interns, who are intrested in AI for Drug, Energy, and Agriculture, such as Deep Graph Learning, Time Series Prediction, Reinforcement Learning, etc.</font>
  
 ## Working Experiences  
-* Ant Group China, 2016 - 2017  
-* A*STAR Singapore, 2014 - 2016  
-* Rutgers University USA, 2013 - 2014  
+* Ant Group, China, 2016 - 2017  
+* A*STAR, Singapore, 2014 - 2016  
+* Rutgers University, USA, 2013 - 2014  
 
 
 ## Education Experiences
