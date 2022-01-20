@@ -2,7 +2,7 @@ Previous Homepage: [peilinzhao.weebly.com](http://peilinzhao.weebly.com)
 ## Links
 [My Google Scholar](https://scholar.google.com/citations?user=HPeX_YcAAAAJ&hl=en) | [WikiCFP](http://www.wikicfp.com/cfp/) | [t-test](https://www.graphpad.com/quickcalcs/ttest1/?Format=SD) | [国仁全球大学堂](https://space.bilibili.com/679619486?from=search&seid=2740195925806349207&spm_id_from=333.337.0.0)
 
-<img src= "https://pic3.zhimg.com/80/v2-fb1e3adc22a19a7d9f00a66b8b955172_720w.jpg" width ="20%" align="left"/>
+<img src= "https://pic3.zhimg.com/80/v2-fb1e3adc22a19a7d9f00a66b8b955172_720w.jpg" width ="20%" align="right"/>
 
 ## Peilin Zhao  
 
