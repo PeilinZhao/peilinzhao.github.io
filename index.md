@@ -100,4 +100,8 @@ Peilin Zhao, Steven C. H. Hoi, Rong Jin
 **Best Paper Award committee:**
 * AAAI-22
 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=55htbbzxkhp&amp;m=0&amp;h=128&amp;c=ff0000&amp;r=0" async="async"></script>
+
+[URL=https://www.revolvermaps.com/livestats/5pr74267jxr/][img]http://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5pr74267jxr.png[/img][/url]
+
 <a href="https://www.revolvermaps.com/livestats/53qfns0hk2t/"><img src="//rf.revolvermaps.com/h/m/a/0/ff0000/128/0/53qfns0hk2t.png" width="256" height="128" alt="Map" style="border:0;"></a>
