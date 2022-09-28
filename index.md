@@ -14,7 +14,7 @@ Email: peilinzhao[AT]hotmail.com
  **Internship:**  <font color=red>We are looking for interns, who are interested in AI for Drug, Energy, and Agriculture, such as Deep Graph Learning, Time Series Prediction, Reinforcement Learning, etc.</font>
  
 ## BIO
-Peilin Zhao is currently a Principal Researcher at Tencent AI Lab, China. Previously, he worked at Rutgers University, Institute for Infocomm Research (I2R), Ant Group. His research interests include: Online Learning, Recommendation System, Automatic Machine Learning, Deep Graph Learning, and Reinforcement Learning etc. He has been invited as a PC member, Area Chair or Associate Editor for top international conferences and journals, such as ICML, TPAMI, etc. He received his bachelor's degree in math from Zhejiang University, and his PhD degree in computer science from Nanyang Technological University.
+Peilin Zhao is currently a principal researcher at Tencent AI Lab in China. Previously, he worked at Rutgers University, Institute for Infocomm Research, and Ant Group. His research interests include: online learning, recommendation systems, automatic machine learning, deep graph learning, and reinforcement learning, among others. He has been invited to serve as area chair or associate editor at leading international conferences and journals such as ICML, TPAMI, etc. He received a bachelor's degree in mathematics from Zhejiang University, and a Ph.D. degree in computer science from Nanyang Technological University.
 
 ## Working Experiences  
 * Ant Group, China
