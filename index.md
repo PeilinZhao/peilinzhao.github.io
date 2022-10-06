@@ -81,6 +81,9 @@ Peilin Zhao, Steven C. H. Hoi
 DUOL: A Double Updating Approach for Online Learning. NIPS 2009  
 Peilin Zhao, Steven C. H. Hoi, Rong Jin
 
+## Awards
+* the 2020-2021 World's Top 2% Scientists 
+
 ## Services
 **Associate Editor:**  
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
