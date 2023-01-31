@@ -90,7 +90,7 @@ Peilin Zhao, Steven C. H. Hoi, Rong Jin
 * Neurocomputing
 
 **Area Chair:**  
-* The 40th International Conference on Machine Learning (ICML 2022) 
+* The 40th International Conference on Machine Learning (ICML 2023) 
 * Thirty-sixth Annual Conference on Neural Information Processing Systems (NeurIPS 2022)
 * Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)
 * Thirty-fifth Annual Conference on Neural Information Processing Systems (NeurIPS 2021)
