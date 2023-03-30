@@ -90,18 +90,14 @@ Peilin Zhao, Steven C. H. Hoi, Rong Jin
 * Neurocomputing
 
 **Area Chair:**  
-* Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023)
-* Thirty-sixth Annual Conference on Neural Information Processing Systems (NeurIPS 2022)
-* Thirty-fifth Annual Conference on Neural Information Processing Systems (NeurIPS 2021)
-* The 40th International Conference on Machine Learning (ICML 2023) 
-* Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)
-* The 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)
+* Annual Conference on Neural Information Processing Systems (NeurIPS) 2021, 2022, 2023
+* International Conference on Machine Learning (ICML) 2023
+* AAAI Conference on Artificial Intelligence (AAAI) 2022
+* International Joint Conference on Artificial Intelligence (IJCAI) 2021
 
 **Senior PC:**
-* The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)  
-* Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2021)  
-* The 29th International Joint Conference on Artificial Intelligence (IJCAI 2020)
-* The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019)
+* International Joint Conference on Artificial Intelligence (IJCAI) 2020, 2022 
+* AAAI Conference on Artificial Intelligence (AAAI) 2019, 2021  
 
 **Best Paper Award committee:**
 * AAAI-22
