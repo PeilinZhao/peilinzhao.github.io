@@ -33,7 +33,8 @@ Peilin Zhao is currently a principal researcher at Tencent AI Lab in China. Prev
     - BSc in Math, 2004 - 2008
 
 ## Research Interests
-Online Learning, Recommendation System, Automatic Machine Learning, Deep Graph Learning, and Reinforcement Learning 
+Large Language Model, Reinforcement Learning, Deep Graph Learning, Automatic Machine Learning, Recommendation System, and Online Learning.
+
 
 ## Selected Publications ([Full List](https://dblp.org/pid/84/8411.html))
 Meta-learning Hyperparameter Performance Prediction with Neural Processes. ICML 2021  
