@@ -83,7 +83,8 @@ DUOL: A Double Updating Approach for Online Learning. NIPS 2009
 Peilin Zhao, Steven C. H. Hoi, Rong Jin
 
 ## Awards
-* The 2020-2022 World's Top 2% Scientists (by Stanford University)
+* IEEE Senior Member 
+* The 2020-2023 World's Top 2% Scientists (by Stanford University)
 
 ## Services
 **Associate Editor:**  
