@@ -84,7 +84,7 @@ Peilin Zhao, Steven C. H. Hoi, Rong Jin
 
 ## Awards
 * IEEE Senior Member 
-* The 2020-2023 World's Top 2% Scientists (by Stanford University)
+* The 2020-2024 World's Top 2% Scientists (by Stanford University)
 
 ## Services
 **Associate Editor:**  
