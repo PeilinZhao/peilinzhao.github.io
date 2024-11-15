@@ -89,6 +89,7 @@ Peilin Zhao, Steven C. H. Hoi, Rong Jin
 ## Services
 **Associate Editor:**  
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+* Transactions on Machine Learning Research (TMLR)
 * Neurocomputing
 
 **Area Chair:**  
