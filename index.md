@@ -2,19 +2,18 @@ Previous Homepage: [peilinzhao.weebly.com](http://peilinzhao.weebly.com)
 ## Links
 [Google Scholar](https://scholar.google.com/citations?user=HPeX_YcAAAAJ&hl=en) | [WikiCFP](http://www.wikicfp.com/cfp/) | [t-test](https://www.graphpad.com/quickcalcs/ttest1/?Format=SD) |
 
-<img src= "https://pic3.zhimg.com/80/v2-fb1e3adc22a19a7d9f00a66b8b955172_720w.jpg" width ="20%" align="right"/>
 
 ## Peilin Zhao  
 
 Principal Researcher  
-Tencent AI Lab  
+Tencent  
 Shenzhen, China  
 Email: peilinzhao[AT]hotmail.com 
 
  **Internship:**  <font color=red>We are looking for interns, who are interested in AI for Science (Materials), Large Language Model, etc.</font>
  
 ## BIO
-Peilin Zhao is currently a principal researcher at Tencent AI Lab in China. Previously, he worked at Rutgers University, A*STAR (Agency for Science, Technology and Research), and Ant Group. His research interests include: online learning, recommendation systems, automatic machine learning, deep graph learning, and reinforcement learning, among others. He has been invited to serve as area chair or associate editor at leading international conferences and journals such as ICML, TPAMI, etc. He received a bachelor's degree in mathematics from Zhejiang University, and a Ph.D. degree in computer science from Nanyang Technological University.
+Peilin Zhao is currently a principal researcher at Tencent in China. Previously, he worked at Rutgers University, A*STAR (Agency for Science, Technology and Research), and Ant Group. His research interests include: online learning, recommendation systems, automatic machine learning, deep graph learning, and reinforcement learning, among others. He has been invited to serve as area chair or associate editor at leading international conferences and journals such as ICML, TPAMI, etc. He received a bachelor's degree in mathematics from Zhejiang University, and a Ph.D. degree in computer science from Nanyang Technological University.
 
 ## Working Experiences  
 * Ant Group, China
