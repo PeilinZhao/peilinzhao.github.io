@@ -2,7 +2,7 @@ Previous Homepage: [peilinzhao.weebly.com](http://peilinzhao.weebly.com)
 ## Links
 [Google Scholar](https://scholar.google.com/citations?user=HPeX_YcAAAAJ&hl=en) | [WikiCFP](http://www.wikicfp.com/cfp/) | [t-test](https://www.graphpad.com/quickcalcs/ttest1/?Format=SD) |
 
-![Tencent]([https://pic1.zhimg.com/70/v2-c47c4c1f5fcfae52d6b7bf2fa75bc564_1440w.avis?source=172ae18b&biz_tag=Post])
+![Tencent]([https://thinklab.sjtu.edu.cn/src/tencentailab.png])
 
 ## Peilin Zhao  
 
