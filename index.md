@@ -4,12 +4,12 @@
 
 
 ## Peilin Zhao  
+<img title="Tencent" src="https://thinklab.sjtu.edu.cn/src/tencentailab.png" width="20%"  align="right">
 
 Principal Researcher  
 Tencent  
 Shenzhen, China  
 Email: peilinzhao[AT]hotmail.com 
-<img title="Tencent" src="https://thinklab.sjtu.edu.cn/src/tencentailab.png" width="20%"  align="right">
 
 **Links:** 
 [Google Scholar](https://scholar.google.com/citations?user=HPeX_YcAAAAJ&hl=en) |  [t-test](https://www.graphpad.com/quickcalcs/ttest1/?Format=SD) |  [CFP Deadlines](https://ccfddl.com/) | [Previous Homepage](http://peilinzhao.weebly.com)
