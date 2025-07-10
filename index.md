@@ -9,7 +9,6 @@ Principal Researcher
 Tencent  
 Shenzhen, China  
 Email: peilinzhao[AT]hotmail.com 
-
 <img title="Tencent" src="https://thinklab.sjtu.edu.cn/src/tencentailab.png" width="16%"  align="right">
 
 
