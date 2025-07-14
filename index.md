@@ -92,9 +92,9 @@ Peilin Zhao, Steven C. H. Hoi, Rong Jin
 
 ## Services
 **Associate Editor:**  
-* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-* Transactions on Machine Learning Research (TMLR)
-* Neurocomputing
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021 -
+* Transactions on Machine Learning Research (TMLR), 2024 - 
+* Neurocomputing, 2018 - 2024
 
 **Area Chair:**  
 * International Conference on Learning Representations (ICLR) 2024, 2025
