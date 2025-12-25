@@ -6,6 +6,8 @@ title: Publications
 
 ## Selected Publications ([For More](https://dblp.org/pid/84/8411.html))
 
+De novo design of epitope-specific antibodies via a structure-driven computational workflow. Nature Communications 2025
+Fandi Wu, Yu Zhao, JiaXiang Wu, Biaobin Jiang, ... ,Wei Liu, Yu Rong, Peilin Zhao, Jianhua Yao
 
 NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction. ICML 2025
 Qichao Wang, Ziqiao Meng, Wenqian Cui, Yifei Zhang, Pengcheng Wu, Bingzhe Wu, Irwin King, Liang Chen, Peilin Zhao
