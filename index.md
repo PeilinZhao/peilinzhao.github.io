@@ -7,11 +7,8 @@
 <img title="Tencent" src="https://thinklab.sjtu.edu.cn/src/tencentailab.png" width="20%"  align="right">
 
 Professor
-
 Shanghai Jiao Tong University
-
 Shanghai, China
-
 Email: peilinzhao[AT]hotmail.com 
 
 **Links:** 
