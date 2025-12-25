@@ -6,9 +6,9 @@
 ## Peilin Zhao  
 <img title="Tencent" src="https://thinklab.sjtu.edu.cn/src/tencentailab.png" width="20%"  align="right">
 
-Principal Researcher  
-Tencent  
-Shenzhen, China  
+Professor
+Shanghai Jiao Tong University
+Shanghai, China
 Email: peilinzhao[AT]hotmail.com 
 
 **Links:** 
@@ -21,6 +21,9 @@ Email: peilinzhao[AT]hotmail.com
 Peilin Zhao is currently a professor at Shanghai Jiao Tong University. He has previously worked at Tencent Group, Ant Group, A*STAR Singapore, and Rutgers University. His research focuses on machine learning and its applications, covering large models, AI for Science, AI for Games, and recommendation systems. He has served as Area Chair and Associate Editor for top-tier venues including ICML, NeurIPS, and TPAMI. He obtained his Bachelor's in Mathematics from Zhejiang University and his Ph.D. in Computer Science from Nanyang Technological University.
 
 ## Working Experiences  
+ 
+* Tencent, China
+   - Principal Researcher in AI Lab, 2017 - 2025  
 * Ant Group, China
    - Senior Expert in AI Department, 2016 - 2017  
 * A*STAR, Singapore  
