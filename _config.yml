@@ -1,2 +1,4 @@
 title: 我的个人主页
-theme: Minimal
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
