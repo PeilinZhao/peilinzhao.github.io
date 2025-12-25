@@ -18,7 +18,7 @@ Email: peilinzhao[AT]hotmail.com
 
  
 ## BIO
-Peilin Zhao is currently a principal researcher at Tencent in China. Previously, he worked at Rutgers University, A*STAR (Agency for Science, Technology and Research), and Ant Group. His research interests include: online learning, recommendation systems, automatic machine learning, deep graph learning, and reinforcement learning, among others. He has been invited to serve as area chair or associate editor at leading international conferences and journals such as ICML, TPAMI, etc. He received a bachelor's degree in mathematics from Zhejiang University, and a Ph.D. degree in computer science from Nanyang Technological University.
+Peilin Zhao is currently a professor at Shanghai Jiao Tong University. He has previously worked at Tencent Group, Ant Group, A*STAR Singapore, and Rutgers University. His research focuses on machine learning and its applications, covering large models, AI for Science, AI for Games, and recommendation systems. He has served as Area Chair and Associate Editor for top-tier venues including ICML, NeurIPS, and TPAMI. He obtained his Bachelor's in Mathematics from Zhejiang University and his Ph.D. in Computer Science from Nanyang Technological University.
 
 ## Working Experiences  
 * Ant Group, China
