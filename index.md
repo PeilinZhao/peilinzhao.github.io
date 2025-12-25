@@ -16,7 +16,7 @@ Email: peilinzhao[AT]hotmail.com
 
  
 ## BIO
-Peilin Zhao is currently a professor at Shanghai Jiao Tong University. He has previously worked at Tencent Group, Ant Group, A*STAR Singapore, and Rutgers University. His research focuses on machine learning and its applications, covering large models, AI for Science, AI for Games, and recommendation systems. He has served as Area Chair and Associate Editor for top-tier venues including ICML, NeurIPS, and TPAMI. He obtained his Bachelor's in Mathematics from Zhejiang University and his Ph.D. in Computer Science from Nanyang Technological University.
+Peilin Zhao is currently a professor at Shanghai Jiao Tong University. He previously worked at Tencent Group, Ant Group, A*STAR Singapore, and Rutgers University. His research focuses on machine learning and its applications, including large models, AI for science, AI for games, and recommendation systems. He has served as an Area Chair and Associate Editor for top-tier venues such as ICML, NeurIPS, and TPAMI. He received his bachelor’s degree in mathematics from Zhejiang University and his PhD in computer science from Nanyang Technological University.
 
 ## Working Experiences  
  
