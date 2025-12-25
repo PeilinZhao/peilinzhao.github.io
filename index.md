@@ -1,10 +1,8 @@
 
 
 
-
-
 ## Peilin Zhao  
-<img title="Tencent" src="https://thinklab.sjtu.edu.cn/src/tencentailab.png" width="20%"  align="right">
+<img title="SJTU" src="https://sjtuinternational.wordpress.com/wp-content/uploads/2017/10/cropped-sjtu-logo-standard-red1.png" width="20%"  align="right">
 
 Professor  
 Shanghai Jiao Tong University  
