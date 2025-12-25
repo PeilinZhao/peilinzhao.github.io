@@ -1,4 +1,4 @@
 ---
 layout: default
-title: 关于我
+title: About
 ---
