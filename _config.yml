@@ -1,4 +1,1 @@
-title: Peilin Zhao
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
+theme: minima
