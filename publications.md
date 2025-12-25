@@ -6,23 +6,20 @@ title: Publications
 
 ## Selected Publications ([For More](https://dblp.org/pid/84/8411.html))
 
-De novo design of epitope-specific antibodies via a structure-driven computational workflow. Nature Communications 2025
-Fandi Wu, Yu Zhao, JiaXiang Wu, Biaobin Jiang, ... ,Wei Liu, Yu Rong, Peilin Zhao, Jianhua Yao
+NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction. ICML 2025  
+Qichao Wang, Ziqiao Meng, Wenqian Cui, Yifei Zhang, Pengcheng Wu, Bingzhe Wu, Irwin King, Liang Chen, Peilin Zhao  
 
-NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction. ICML 2025
-Qichao Wang, Ziqiao Meng, Wenqian Cui, Yifei Zhang, Pengcheng Wu, Bingzhe Wu, Irwin King, Liang Chen, Peilin Zhao
-
-Latent Diffusion Transformer for Probabilistic Time Series Forecasting. AAAI 2024
-Shibo Feng, Chunyan Miao, Zhong Zhang, Peilin Zhao
+Latent Diffusion Transformer for Probabilistic Time Series Forecasting. AAAI 2024  
+Shibo Feng, Chunyan Miao, Zhong Zhang, Peilin Zhao  
   
-Doubly Stochastic Graph-based Non-autoregressive Reaction Prediction. IJCAI 2023
-Ziqiao Meng, Peilin Zhao, Yang Yu, Irwin King
+Doubly Stochastic Graph-based Non-autoregressive Reaction Prediction. IJCAI 2023  
+Ziqiao Meng, Peilin Zhao, Yang Yu, Irwin King  
 
-Value Penalized Q-Learning for Recommender Systems. SIGIR 2022
-Chengqian Gao, Ke Xu, Kuangqi Zhou, Lanqing Li, Xueqian Wang, Bo Yuan, Peilin Zhao
+Value Penalized Q-Learning for Recommender Systems. SIGIR 2022  
+Chengqian Gao, Ke Xu, Kuangqi Zhou, Lanqing Li, Xueqian Wang, Bo Yuan, Peilin Zhao  
 
 Meta-learning Hyperparameter Performance Prediction with Neural Processes. ICML 2021  
-Ying Wei, Peilin Zhao, Junzhou Huang
+Ying Wei, Peilin Zhao, Junzhou Huang  
 
 
 Adversarial Sparse Transformer for Time Series Forecasting. NeurIPS 2020  
