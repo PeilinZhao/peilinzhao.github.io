@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: 首页
+---
 
 
 ## Peilin Zhao  
