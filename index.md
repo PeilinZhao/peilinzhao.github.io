@@ -41,8 +41,7 @@ Peilin Zhao is currently a professor at Shanghai Jiao Tong University. He previo
 * Zhejiang University, China
     - BSc in Math, 2004 - 2008
 
-## Research Interests
-Large Language Model, Reinforcement Learning, Deep Graph Learning, Automatic Machine Learning, Recommendation System, and Online Learning.
+
 
 
 
