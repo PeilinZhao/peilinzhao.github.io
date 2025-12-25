@@ -5,9 +5,9 @@ title: About Me
 
 
 
-## Peilin Zhao  
-<img title="SJTU" src="https://sjtuinternational.wordpress.com/wp-content/uploads/2017/10/cropped-sjtu-logo-standard-red1.png" width="20%"  align="right">
 
+<img title="SJTU" src="https://sjtuinternational.wordpress.com/wp-content/uploads/2017/10/cropped-sjtu-logo-standard-red1.png" width="20%"  align="right">
+Peilin Zhao  
 Professor  
 Shanghai Jiao Tong University  
 Shanghai, China  
