@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-Selected Publications ([Full List](https://dblp.org/pid/84/8411.html))
+## Selected Publications ([Full List](https://dblp.org/pid/84/8411.html))
 Meta-learning Hyperparameter Performance Prediction with Neural Processes. ICML 2021  
 Ying Wei, Peilin Zhao, Junzhou Huang
 
