@@ -8,9 +8,14 @@ My research interests are machine learning and their applications. My Google sch
 ## Machine Learning
 - Generative Learning
 - Reinforcement Learning
+- Graph Learning
 - Automatic Learning
-- Large Scale Learning
+- Online Learning
 
 ## Applications
- - Drug Discovery
- - 
+ - LLM
+ - AI for Science: Drug AI, Medical AI, Energy AI
+ - Game AI
+ - Recommendation
+
+
