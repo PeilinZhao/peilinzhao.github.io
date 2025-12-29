@@ -11,3 +11,6 @@ My research interests are machine learning and their applications. My Google sch
 - Automatic Learning
 - Large Scale Learning
 
+## Applications
+ - Drug Discovery
+ - 
