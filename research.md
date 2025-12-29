@@ -9,13 +9,14 @@ My research interests include machine learning and its applications. My Google S
 - Generative Learning
 - Reinforcement Learning
 - Graph Learning
-- Automatic Learning
+- Automated Machine Learning (AutoML)
 - Online Learning
 
 ## Applications
- - LLM
- - AI for Science: Drug AI, Medical AI, Energy AI
- - Game AI
- - Recommendation
+- Large Language Models (LLMs)  
+- AI for Science: Drug Discovery, Medical AI, Energy AI  
+- Game AI
+- Financial AI	
+- Recommendation Systems
 
 
