@@ -12,16 +12,16 @@ Qichao Wang, Ziqiao Meng, Wenqian Cui, Yifei Zhang, Pengcheng Wu, Bingzhe Wu, Ir
 Principled Data Selection for Alignment: The Hidden Risks of Difficult Examples. ICML 2025  
 Chengqian Gao, Haonan Li, Liu Liu, Zeke Xie, Peilin Zhao, Zhiqiang Xu
 
-Test-time Adapted Reinforcement Learning with Action Entropy Regularization. ICML 2025
+Test-time Adapted Reinforcement Learning with Action Entropy Regularization. ICML 2025  
 Shoukai Xu, Zihao Lian, Mingkui Tan, Liu Liu, Zhong Zhang, Peilin Zhao
 
-Self-Bootstrapping for Versatile Test-Time Adaptation. ICML 2025
+Self-Bootstrapping for Versatile Test-Time Adaptation. ICML 2025  
 Shuaicheng Niu, Guohao Chen, Peilin Zhao, Tianyi Wang, Pengcheng Wu, Zhiqi Shen
 
-Measuring Diversity in Synthetic Datasets. ICML 2025
+Measuring Diversity in Synthetic Datasets. ICML 2025  
 Yuchang Zhu, Huizhe Zhang, Bingzhe Wu, Jintang Li, Zibin Zheng, Peilin Zhao, Liang Chen, Yatao Bian
 
-Efficient Parallel Training Methods for Spiking Neural Networks with Constant Time Complexity. ICML 2025
+Efficient Parallel Training Methods for Spiking Neural Networks with Constant Time Complexity. ICML 2025  
 Wanjin Feng, Xingyu Gao, Wenqian Du, Hailong Shi, Peilin Zhao, Pengcheng Wu, Chunyan Miao
 
 Latent Diffusion Transformer for Probabilistic Time Series Forecasting. AAAI 2024  
