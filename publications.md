@@ -6,6 +6,9 @@ title: Publications
 
 ## Selected Publications ([For More](https://dblp.org/pid/84/8411.html))
 
+Principled Data Selection for Alignment: The Hidden Risks of Difficult Examples. ICML 2025  
+Chengqian Gao, Haonan Li, Liu Liu, Zeke Xie, Peilin Zhao, Zhiqiang Xu
+
 NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction. ICML 2025  
 Qichao Wang, Ziqiao Meng, Wenqian Cui, Yifei Zhang, Pengcheng Wu, Bingzhe Wu, Irwin King, Liang Chen, Peilin Zhao  
 
