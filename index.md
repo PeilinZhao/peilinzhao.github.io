@@ -57,8 +57,8 @@ Peilin Zhao is currently a professor at Shanghai Jiao Tong University. He previo
 * Neurocomputing, 2018 - 2024
 
 **Area Chair:**  
-* International Conference on Learning Representations (ICLR) 2024, 2025
-*  International Conference on Machine Learning (ICML) 2023, 2024, 2025
+* International Conference on Learning Representations (ICLR) 2024-2026
+*  International Conference on Machine Learning (ICML) 2023, 2024-2026
 * Annual Conference on Neural Information Processing Systems (NeurIPS) 2021-2025
 * AAAI Conference on Artificial Intelligence (AAAI) 2022
 * International Joint Conference on Artificial Intelligence (IJCAI) 2021
