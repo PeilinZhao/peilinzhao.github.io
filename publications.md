@@ -6,6 +6,10 @@ title: Publications
 
 ## Selected Publications ([For More](https://dblp.org/pid/84/8411.html))
 
+FlowLM: Few-Step Language Modeling via Diffusion-to-Flow Adaptation. Under review 2026.[PDF]
+Runzhe Zhang, Letian Chen, Wenpeng Zhang, Zhouhan Lin, Peilin Zhao
+
+
 NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction. ICML 2025  
 Qichao Wang, Ziqiao Meng, Wenqian Cui, Yifei Zhang, Pengcheng Wu, Bingzhe Wu, Irwin King, Liang Chen, Peilin Zhao  
 
