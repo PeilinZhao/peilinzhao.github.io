@@ -6,7 +6,7 @@ title: Publications
 
 ## Selected Publications ([For More](https://dblp.org/pid/84/8411.html))
 
-FlowLM: Few-Step Language Modeling via Diffusion-to-Flow Adaptation. Under review 2026. ([PDF](https://arxiv.org/pdf/2605.20199))
+FlowLM: Few-Step Language Modeling via Diffusion-to-Flow Adaptation. Under review 2026. ([PDF](https://arxiv.org/pdf/2605.20199))  
 Runzhe Zhang, Letian Chen, Wenpeng Zhang, Zhouhan Lin, Peilin Zhao
 
 
