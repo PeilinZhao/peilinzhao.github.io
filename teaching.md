@@ -4,5 +4,5 @@ title: Teaching
 ---
 
 
-## Stochastic Process
-- AI2806, Spring 2026
+## Stochastic Process (AI2806, Spring 2026)
+- 
