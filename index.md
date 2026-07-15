@@ -30,7 +30,8 @@ Peilin Zhao is currently a professor at Shanghai Jiao Tong University. He previo
     - Research Scientist in Data Analytics Department, 2014 - 2016  
 * Rutgers University, USA
     - Postdoc in Department of Statistics, 2013 - 2014  
-
+* Baidu, China
+    - Visiting Scholar in Institute of Deep Learning, 2013 - 2014  
 
 ## Education Experiences
 * Nanyang Technological University, Singapore
