@@ -14,7 +14,7 @@ Email: peilinzhao[AT]hotmail.com
 **Links:** 
 [Google Scholar](https://scholar.google.com/citations?user=HPeX_YcAAAAJ&hl=en) |  [t-test](https://www.graphpad.com/quickcalcs/ttest1/?Format=SD) |  [CFP Deadlines](https://ccfddl.com/) | [Previous Homepage](http://peilinzhao.weebly.com)
 
- **Notice:**  <font color=red>We are looking for interns, graduate students, Postdocs, etc.</font>
+ **Notice:**  <font color=red>We are looking for interns, graduate students, Postdocs, etc. Graduate student candidates are preferred from our intern pool. </font>
 
  
 ## BIO
